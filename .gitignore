@@ -1,0 +1,11 @@
+# Binários compilados
+bin/
+*.class
+
+# Configurações de IDE e SO
+.idea/
+.vscode/
+.settings/
+*.log
+.DS_Store
+Thumbs.db
