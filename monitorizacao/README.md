@@ -77,5 +77,5 @@ Estado final das threads     :
  Sensor-HUM-01   TERMINATED
  Sensor-PRES-01  TERMINATED
 Todas as threads terminadas  : SIM
-================================================================
+===============================================================
 ```
